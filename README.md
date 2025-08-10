@@ -1,6 +1,5 @@
 # dbda-big-data-walmart-stores-analysis-prediction
 
-Walmart Sales Prediction Pipeline
 An end-to-end pipeline for Walmart sales forecasting using PySpark for ETL, Matplotlib/Seaborn for EDA, and a Random Forest model.
 The workflow is orchestrated with Apache Airflow, running ETL, EDA, and modeling sequentially.
 Visualizations are also created interactively on Databricks Community Edition.
@@ -9,15 +8,15 @@ Visualizations are also created interactively on Databricks Community Edition.
 
 ## Project Overview
 
-Data ingestion and cleaning with PySpark
+- Data ingestion and cleaning with PySpark
 
-Exploratory Data Analysis with graphical plots
+- Exploratory Data Analysis with graphical plots
 
-Machine Learning model training and evaluation (Random Forest)
+- Machine Learning model training and evaluation (Random Forest)
 
-Pipeline orchestration via Airflow DAG
+- Pipeline orchestration via Airflow DAG
 
-Interactive visualization demo on Databricks
+- Interactive visualization demo on Databricks
 
 ## Project Structure
 
