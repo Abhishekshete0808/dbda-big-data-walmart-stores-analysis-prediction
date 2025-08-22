@@ -36,7 +36,7 @@ Output/
  ├── random_forest_predictions.parquet  
  ├── validation_predictions.parquet  
 
-Plots/                        # EDA generated plots & Databricks notebook link 
+Plots/                        # EDA generated plots 
 
 requirements.txt              # Python dependencies  
 README.md                     # Project documentation  
