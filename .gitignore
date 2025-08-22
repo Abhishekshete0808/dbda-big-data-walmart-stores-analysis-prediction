@@ -1,0 +1,12 @@
+# Ignore Walmart virtual environment folder
+walmart/
+
+# Python cache/compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code project settings
+.vscode/
+
